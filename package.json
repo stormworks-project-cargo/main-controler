@@ -1,0 +1,22 @@
+{
+  "name": "main-controler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stormworks-project-cargo/main-controler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stormworks-project-cargo/main-controler/issues"
+  },
+  "homepage": "https://github.com/stormworks-project-cargo/main-controler#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
